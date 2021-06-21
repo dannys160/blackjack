@@ -1,3 +1,3 @@
 # Blackjack
 
-game can be found @ https://6b6f0f57b474.ngrok.io/
+game can be found @ https://4368c4a40844.ngrok.io/
